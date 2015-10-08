@@ -1,7 +1,7 @@
 Assignment 1
 ========================================================
 
-## To view the charts you need to preview the HMTL file from the Rmd file
+## To view the charts you need to preview the HMTL file from the Rmd file (click this link to evaluate)
 http://htmlpreview.github.io/?https://github.com/Andy7475/RepData_PeerAssessment1/blob/master/PA1_template.html
 
 ## Loading and preprocessing the data
