@@ -1,5 +1,9 @@
 Assignment 1
 ========================================================
+
+## To view the charts you need to preview the HMTL file from the Rmd file
+http://htmlpreview.github.io/?https://github.com/Andy7475/RepData_PeerAssessment1/blob/master/PA1_template.html
+
 ## Loading and preprocessing the data
 
 First, let's load the activity log data. And change the date variable to a date format
