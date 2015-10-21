@@ -1,3 +1,13 @@
+# To view the charts you need to preview the HMTL file from the Rmd file
+
+## Restrictions on my work computer mean I can't upload the image folder.
+
+## So please click this link to evaluate my assignment:
+
+http://htmlpreview.github.io/?https://github.com/Andy7475/RepData_PeerAssessment1/blob/master/PA1_template.html
+
+
+
 Assignment 1
 ========================================================
 ## Loading and preprocessing the data
